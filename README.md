@@ -1,6 +1,6 @@
 # React App to visualize Sorting Algorithms
 
-This app is a visual way to see sorting algorithms like Merge Sort, Quick Sort, Selection Sort, and Bubble Sort in action. Available at: (https://clarissacheng.github.io/SortingAlgorithmsVisualizer/)
+This app is a visual way to see sorting algorithms like Merge Sort, Quick Sort, Selection Sort, and Bubble Sort in action. Available at: https://clarissacheng.github.io/SortingAlgorithmsVisualizer/
 
 ## Implementation
 
